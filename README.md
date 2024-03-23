@@ -1,6 +1,7 @@
 # SeewoCampus
 Seewo Classsign Tool
 - 暂时不开源，防止api被和谐
+- 有意者可以发送邮件给nswera929@gmail.com和我进行交流
 
 ## 一切开发旨在学习，请勿用于非法用途
 - 使用了"希沃魔方"的登录，发送信息，上传文件api
